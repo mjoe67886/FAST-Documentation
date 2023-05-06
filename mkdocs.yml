@@ -1,0 +1,41 @@
+site_name: Super Sold Mode Documentation
+site_url:
+site_description:
+site_author:
+
+nav:
+    - Getting Started:
+        - Overview: index.md
+        - Installation: installation.md
+        - Support: support.md
+        # - FAQ: FAQ.md
+    - Features:
+        - The Super Solid Mode Button: super_solid_mode_button.md
+        # - Automatic Clean Up:
+        # - Mega Amount of Click Saving Buttons:
+        - Insert Keyframe for ALL shape keys: keyframe_shapekeys.md
+        - Delete childless empties: delete_childless_empties.md
+
+        - Any material to extreme PBR: material_to_extreme_pbr.md
+        - Enable default blender add ons: addon_enable.md
+        - Fast green screen keying: fast_green_screen_keying.md
+          #- the fast theme panel
+    - Tips and Extras:
+theme:
+  name: readthedocs
+  highlightjs: true
+  logo: img/logo.png
+extra_css:
+  - css/custom_theme.css
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        # See: https://mkdocstrings.github.io/python/usage/
+        python:
+          options:
+            docstring_style: sphinx
+markdown_extensions:
+  - markdown_include.include:
+      base_path: .
+  - admonition

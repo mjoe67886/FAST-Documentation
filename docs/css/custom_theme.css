@@ -1,0 +1,79 @@
+
+
+
+:root {
+    --background_col: rgb(19, 28, 32);
+  }
+
+.wy-nav-content {
+    max-width: none !important;
+}
+
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Using_CSS_gradients */
+
+.wy-side-nav-search {
+    /* background: url(img/SUPER-SOLID-MODE! - User Manual_Page_01_Image_0001.jpg) */
+    background: linear-gradient(
+        /* to bottom, */
+        rgb(64, 96, 184), 
+        rgb(145, 47, 76),
+        rgb(90, 31, 49),
+        var(--background_col));
+}
+
+.wy-side-nav-search {
+    /* background: url(img/SUPER-SOLID-MODE! - User Manual_Page_01_Image_0001.jpg) */
+    background: linear-gradient(
+        to bottom, 
+        rgba(64, 96, 184, 0.8), 
+        rgba(64, 126, 184, 0.999),
+        rgba(90, 31, 49, 0.96),
+        var(--background_col)),
+        url("/img/SUPER-SOLID-MODE! - User Manual_Page_01_Image_0001.jpg");
+    background-size: 70%, 70%;
+}
+
+.wy-side-nav-search {
+    /* background: url(img/SUPER-SOLID-MODE! - User Manual_Page_01_Image_0001.jpg) */
+    background: linear-gradient(
+        /* to bottom,  */
+        rgba(64, 96, 184, 0.5),
+        rgba(64, 96, 184, 0.6), 
+        rgba(64, 89, 158, 0.9),
+        rgba(64, 89, 158, 0.9),  
+        rgba(145, 47, 76, 0.999),
+        rgba(41, 54, 90, 0.9), 
+        rgba(90, 31, 49, 0.96),
+        var(--background_col)),
+        url("/img/SUPER-SOLID-MODE! - User Manual_Page_01_Image_0001.jpg");
+    background-size: 70%, 70%;
+}
+
+
+
+
+.wy-nav-top,.wy-nav-side,.rst-versions .rst-current-version {
+    /* background: rgb(42, 36, 49); */
+    background: var(--background_col)
+}
+
+.rst-versions{
+    border-top:solid 10px var(--background_col)
+}
+
+.rst-content {
+    //text-indent: 50px;
+}
+
+code {
+    color: black;
+}
+@media only screen and (min-width: 1024px){
+    .wy-nav-content-wrap {
+        max-width: 40vw;
+    }
+}
+
+img.center-image {
+    text-align: center;
+}

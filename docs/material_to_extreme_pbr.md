@@ -1,0 +1,43 @@
+# ANY MATERIAL TO EXTREME PBR
+
+Add ANY PBR Material into Extreme PBR User Library
+
+
+NOW YOU CAN CONVERT ANY PBR MATERIAL ADDED WITH POLIIGON ADD-ON to...
+![tag](img/SUPER-SOLID-MODE! - User Manual_Page_16_Image_0002.jpg)
+
+
+
+OR YOU CAN CONVERT ANY PBR MATERIAL ADDED WITH
+NODE WRANGLER to...
+
+![tag](img/SUPER-SOLID-MODE! - User Manual_Page_16_Image_0003.jpg)
+
+AN EXTREME PBR NEXUS NODE!
+and then...
+
+![tag](img/SUPER-SOLID-MODE! - User Manual_Page_17_Image_0002.jpg)
+
+
+SAVE THAT TO YOUR EXTREME PBR USER
+LIBARY and...
+
+![tag](img/SUPER-SOLID-MODE! - User Manual_Page_17_Image_0003.jpg)
+
+
+NOW IT'S IN YOUR USER LIBRARY
+AND IT'S A NEXUS NODE, SO THERE
+IS AN "EXTREME" AMOUNT OF WAYS
+YOU CAN CUSTOMIZE IT!
+now you...
+NEVER HAVE TO TAKE UP YOUR
+PRECIOUS SCREEN REAL ESTATE!!
+to grab a...
+PBR MATERIAL!!!
+from the...
+ASSET BROWSER!!!!
+AGAIN!!!!!
+
+![tag](img/SUPER-SOLID-MODE! - User Manual_Page_18_Image_0002.jpg)
+
+
