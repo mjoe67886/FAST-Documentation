@@ -25,7 +25,7 @@ theme:
   highlightjs: true
   logo: img/logo.png
 extra_css:
-  - css/theme.css
+  - css/custom.css
 plugins:
   - search
   - mkdocstrings:

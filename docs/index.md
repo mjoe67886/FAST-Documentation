@@ -21,6 +21,7 @@ So it is dedicated to fine tuning Blender so you can save as many button clicks 
 * ...
 
 ![tag](img/gif/money.gif)
+
 *Green screen keying in the addon*
 
 !!! tip
