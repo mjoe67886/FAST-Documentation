@@ -1,4 +1,4 @@
-site_name: Super Sold Mode Documentation
+site_name: Super Solid Mode
 site_url:
 site_description:
 site_author:
@@ -20,13 +20,12 @@ nav:
         - Enable default blender add ons: addon_enable.md
         - Fast green screen keying: fast_green_screen_keying.md
           #- the fast theme panel
-    - Tips and Extras:
 theme:
   name: readthedocs
   highlightjs: true
   logo: img/logo.png
 extra_css:
-  - css/custom_theme.css
+  - css/theme.css
 plugins:
   - search
   - mkdocstrings:
