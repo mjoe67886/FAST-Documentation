@@ -22,14 +22,18 @@ Clicking the SUPER-SOLID-MODE! button shows the Diffuse Maps on all objects in y
 
 * ....This also works automatically:
 
+<!-- method 1 of doing a table in md -->
+<!-- 
 |First Image|Second Image|
 |:-:|:-:|
-|![First Image](img/SUPER-SOLID-MODE! - User Manual_Page_08_Image_0002.jpg)|![Second Image](img/SUPER-SOLID-MODE! - User Manual_Page_08_Image_0003.jpg)|
+|![First Image](img/SUPER-SOLID-MODE! - User Manual_Page_08_Image_0002.jpg)|![Second Image](img/SUPER-SOLID-MODE! - User Manual_Page_08_Image_0003.jpg)| -->
 
-
+<!-- method 2 of doing a table in md -->
+<!-- 
 *Auto Mode OFF* | *Auto Mode ON*
 --- | ---
-![First Image](img/SUPER-SOLID-MODE! - User Manual_Page_08_Image_0002.jpg) | ![Second Image](img/SUPER-SOLID-MODE! - User Manual_Page_08_Image_0003.jpg)
+![First Image](img/SUPER-SOLID-MODE! - User Manual_Page_08_Image_0002.jpg) | ![Second Image](img/SUPER-SOLID-MODE! - User Manual_Page_08_Image_0003.jpg) -->
+
 
 ![tag](img/SUPER-SOLID-MODE! - User Manual_Page_08_Image_0002.jpg)
 *Auto Mode OFF*
@@ -67,12 +71,12 @@ THAT CAN BE SPED UP, WILL!
     We use the Bump Node (that uses derivative functions on the GPU to calculate tangent space) to construct a tangent space matrix and then use that for the tangent space normal map calculation. Which, gave me real-time animation in EVEE Render mode on a 118,000 face character dancing in front of BIG mansion with almost 2 MILLION faces, YMMV. Note: Simplify in Render Properties was set at 0 subdivisions. 
 
 Clicking the SUPER-SOLID-MODE! button also gives you...
-
-![tag](img/SUPER-SOLID-MODE! - User Manual_Page_09_Image_0002.jpg)
-
 ___
 
 
 ## 3. Automatic Clean-up
 
 Automatically or by clicking the SUPER-SOLID-MODE! button will run BLENDER! Clean up Functions, keeping your file as small as can be, by removing the junk that gets left behind when you delete things. This minimizes BLENDER! hanging. BLENDER! hangs when it's Auto Saving because of big file sizes.
+
+![tag](img/SUPER-SOLID-MODE! - User Manual_Page_09_Image_0002.jpg)
+
