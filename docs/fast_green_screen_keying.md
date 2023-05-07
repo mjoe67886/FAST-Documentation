@@ -37,22 +37,21 @@ Changes multiple Blender Theme Properties at the same time!
 
 
 
-    * RESET BUTTON: Resets your Theme to Blender Dark
-___
-    * SAVE BUTTON: Saves your edited Theme as 'FAST_Theme_user'
-___
-    * DEFAULT BUTTON: Imports the default FAST Theme I created to inspire you
-___
-    * Most of these properties on the FAST THEME PANEL sets multiple Blender theme properties at once allowing you to create an amazing Blender theme in no time at all.
-___
-    * Some properties on the FAST THEME PANEL only change one Blender theme property but that's still better because now these properties are much easier to get to. With the combination we're able to change all the important colors for the Blender User Interface, as easily as I could figure out, while still making it look good, and giving you a lot of options.
-___
-    * We just change the colors of the Blender User Interface here.
-___
-    * Don't worry about important colors that you rely on like Vertex colors, Face Orientation colors or Weight Painting colors being changed, that won't happen.
-___
-    * You can move sliders to your heart's content, and rest assured that when you get back to work on your project, you will know where everything is and what everything does.
-___   
-    * Try using the SHADE_TOP and SHADE_DOWN sliders after you have edited all your theme colors, to finish it off, and give it that nice polished to look. 
-___
+* RESET BUTTON: Resets your Theme to Blender Dark
+
+* SAVE BUTTON: Saves your edited Theme as 'FAST_Theme_user'
+
+* DEFAULT BUTTON: Imports the default FAST Theme I created to inspire you
+
+* Most of these properties on the FAST THEME PANEL sets multiple Blender theme properties at once allowing you to create an amazing Blender theme in no time at all.
+
+* Some properties on the FAST THEME PANEL only change one Blender theme property but that's still better because now these properties are much easier to get to. With the combination we're able to change all the important colors for the Blender User Interface, as easily as I could figure out, while still making it look good, and giving you a lot of options.
+
+* We just change the colors of the Blender User Interface here.
+
+* Don't worry about important colors that you rely on like Vertex colors, Face Orientation colors or Weight Painting colors being changed, that won't happen.
+
+* You can move sliders to your heart's content, and rest assured that when you get back to work on your project, you will know where everything is and what everything does.
+
+* Try using the SHADE_TOP and SHADE_DOWN sliders after you have edited all your theme colors, to finish it off, and give it that nice polished to look. 
 

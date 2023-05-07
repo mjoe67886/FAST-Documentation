@@ -11,15 +11,7 @@
 
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Using_CSS_gradients */
 
-.wy-side-nav-search {
-    /* background: url(img/SUPER-SOLID-MODE! - User Manual_Page_01_Image_0001.jpg) */
-    background: linear-gradient(
-        /* to bottom, */
-        rgb(64, 96, 184), 
-        rgb(145, 47, 76),
-        rgb(90, 31, 49),
-        var(--background_col));
-}
+
 
 .wy-side-nav-search {
     /* background: url(img/SUPER-SOLID-MODE! - User Manual_Page_01_Image_0001.jpg) */
@@ -47,6 +39,17 @@
         var(--background_col)),
         url("/img/SUPER-SOLID-MODE! - User Manual_Page_01_Image_0001.jpg");
     background-size: 70%, 70%;
+}
+
+
+.wy-side-nav-search {
+    /* background: url(img/SUPER-SOLID-MODE! - User Manual_Page_01_Image_0001.jpg) */
+    background: linear-gradient(
+        /* to bottom, */
+        rgb(64, 96, 184), 
+        rgb(145, 47, 76),
+        rgb(90, 31, 49),
+        var(--background_col));
 }
 
 
