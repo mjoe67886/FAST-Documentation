@@ -9,11 +9,11 @@ ___
 ![tag](img/SUPER-SOLID-MODE! - User Manual_Page_07_Image_0002.jpg)
 
 
-* It makes ***ALL*** objects show Diffuse image textures
+* It makes ***ALL*** objects show Color/Diffuse Image Textures in Solid mode
 
 
 ![tag](img/SUPER-SOLID-MODE! - User Manual_Page_07_Image_0003.jpg)
-*NOW SEE! With one click of the SUPER-SOLIDMODE Button the Default Cube is showing the Diffuse Map in the Solid mode viewport And the Diffuse map is selected in the Shader Editor.*
+*NOW SEE! With one click of the SUPER-SOLID-MODE! Button the Default Cube is showing the Diffuse Map in the Solid mode viewport And the Diffuse map is selected in the Shader Editor.*
 
 ![tag](img/SUPER-SOLID-MODE! - User Manual_Page_07_Image_0004.jpg)
 *SEE! The Default Cube is showing the Normal Map in the Solid mode viewport And the Normal map is selected in the Shader Editor, that's just how Blender works!*
