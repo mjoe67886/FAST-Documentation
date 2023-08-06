@@ -28,11 +28,11 @@ bpy.ops.preferences.addon_enable(module="[put here]")
 
 Make sure it looks like image below, save the file and restart Blender,
 now the Add-on will be automatically enabled at Blender startup.
-You may have to disable and re-enable SUPER SOLID MODE!
+You may have to disable and re-enable FAST ANIMATION STUDIO TOOLS!
 in Add-on Preferences to see the changes take effect. If your change to
 the code doesn't work for any reason, undo the changes you made in
 your text editor (I recommend Notepad++) save, and restart Blender...
-...you may have to disable and re-enable SUPER SOLID MODE!
+...you may have to disable and re-enable FAST ANIMATION STUDIO TOOLS!
 in Add-on Preferences to see the changes take effect
 
 ![tag](img/SUPER-SOLID-MODE! - User Manual_Page_19_Image_0003.jpg)

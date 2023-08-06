@@ -1,4 +1,4 @@
-# The Super Solid Mode Button
+# The FAST ANIMATION STUDIO TOOLS Button
 
 One press, it does 3 things...
 ___

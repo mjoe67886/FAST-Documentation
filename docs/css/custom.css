@@ -15,9 +15,9 @@
     /* background: url(img/SUPER-SOLID-MODE! - User Manual_Page_01_Image_0001.jpg) */
     background: linear-gradient(
         /* to bottom, */
-        rgb(64, 96, 184), 
-        rgb(145, 47, 76),
-        rgb(90, 31, 49),
+        rgb(0, 0, 184), 
+        rgb(0, 0, 188),
+        rgb(75 75, 75),
         var(--background_col));
 }
 
@@ -36,7 +36,7 @@
 }
 
 code {
-    color: black;
+    color: grey;
 }
 @media only screen and (min-width: 1024px){
     .wy-nav-content-wrap {

@@ -7,7 +7,7 @@
 
 ## Get in Contact
 
-If you want to **report a bug** or encounter problems with Super Solid Mode, please reach out over one of the channels mentioned below:
+If you want to **report a bug** or encounter problems with FAST ANIMATION STUDIO TOOLS, please reach out over one of the channels mentioned below:
 
 !!! Warning "Blendermarket"
     As a **Blendermarket customer** you can [Ask a Question](https://blendermarket.com/products/super-solid-mode). 

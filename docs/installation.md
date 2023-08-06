@@ -6,25 +6,26 @@
 ___
 
 ### Step 1
-To use the Super Solid Mode addon, first download the latest version from the Blender Market.
+To use the FAST ANIMATION STUDIO TOOLS addon, first download the latest version from the Blender Market.
 ___
+!!! If you have an older version of FAST ANIMATION STUDIO TOOLS installed, go to **Step 2**. If not, go to **Step 3**.
 ### Step 2
-If you bought from GumRoad or Patreon then Unzip this file and go to the next
-step...SUPER-SOLID-MODE_v*.*.*_ADD-ON & BONUS INSIDE if you bought from Blender
-Market (you just have the bare Add-on, they wouldn't let me post my bonuses there!:-) just
-go to step #4 (If you bought from Blender Market and would like the bonuses send a
-message on Blender Market or to [bony-joe@toapyandfriends.com)](mailto:bony-joe@toapyandfriends.com) and I will send them,
-they are real click-savers!)
+First, close out Blender,
 
-!!! warning "Next step"
-    If you have an older version of Super Solid Mode installed, go to **Step 3**. If not, go to **Step 4**.
-___
-### Step 3 
-In Blender go to: "Edit" - "Preferences" - "Add-ons" - in the search type bar:
-"super" search the add-on, and left click on "REMOVE". 
+because of the fact FAST can install outside Python libraries, 
+
+we must manually uninstall, for now... 
+
+I'll come up with an easier way...I always do! 
+
+go to "C:\Users\[USERNAME]\AppData\Roaming\Blender Foundation\Blender\[BLENDER VERSION]\scripts\addons"
+
+and delete the "FAST" directory, or,
+
+"C:\Users\[USERNAME]\AppData\Roaming\Blender Foundation\Blender\[BLENDER VERSION]\scripts\addons\FAST" 
 ___
 ### Step 4
-THIS STEP IS IMPORTANT: Restart Blender!!...whenever you remove an addon!
+Then startup Blender and go to "Preferences", "Addons", and Install the latest version...(I Fix things and upgrade this addon all the time so it's important you always have the latest version)
 
 ![install1](img/SUPER-SOLID-MODE! - User Manual_Page_04_Image_0002.jpg)
 
