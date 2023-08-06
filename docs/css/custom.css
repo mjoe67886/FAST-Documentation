@@ -1,49 +1,40 @@
-
-
-
 :root {
-    --background_col: rgb(19, 28, 32);
-  }
+    --blue_col: rgb(43, 129, 183);
+}
 
 .wy-nav-content {
     max-width: none !important;
 }
 
-/* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Using_CSS_gradients */
-
+/* Remove gradient and use blue color for side navigation */
 .wy-side-nav-search {
-    /* background: url(img/SUPER-SOLID-MODE! - User Manual_Page_01_Image_0001.jpg) */
-    background: linear-gradient(
-        /* to bottom, */
-        rgb(0, 0, 184), 
-        rgb(0, 0, 188),
-        rgb(75 75, 75),
-        var(--background_col));
+    background: rgb(43, 129, 183);
 }
 
-
-.wy-nav-top,.wy-nav-side,.rst-versions .rst-current-version {
-    /* background: rgb(42, 36, 49); */
-    background: var(--background_col)
+/* Set the top, side navigation, and version section to blue color */
+.wy-nav-top,
+.wy-nav-side,
+.rst-versions .rst-current-version {
+    background: rgb(43, 129, 183);
 }
 
-.rst-versions{
-    border-top:solid 10px var(--background_col)
+/* Remove the gray border on versions and use blue instead */
+.rst-versions {
+    border-top: solid 10px rgb(43, 129, 183);
 }
 
+/* Commented-out setting for rst-content. If you want to use it in the future, simply uncomment */
+/*
 .rst-content {
-    //text-indent: 50px;
+    text-indent: 50px;
 }
+*/
 
+/* Grey color for code sections */
 code {
     color: grey;
 }
-@media only screen and (min-width: 1024px){
-    .wy-nav-content-wrap {
-        max-width: 40vw;
-    }
-}
 
-img.center-image {
-    text-align: center;
-}
+/* Media query to set the content wrap max-width */
+@media only screen and (min-width: 1024px){
+   
